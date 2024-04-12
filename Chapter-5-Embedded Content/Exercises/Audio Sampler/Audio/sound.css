@@ -1,0 +1,32 @@
+ body {
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    border: solid;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+    padding: 20px;
+}
+
+.audio {
+    background-color: aqua;
+    color: black;
+    font-size: medium;
+    border: solid;
+    padding: 15px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.audi:hover{
+    background-color: lightgreen;
+}
