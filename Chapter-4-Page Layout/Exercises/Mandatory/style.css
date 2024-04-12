@@ -1,0 +1,90 @@
+.header {
+    text-align: center;
+    background-color: #17072b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    padding-bottom: 0.5px;
+    padding-top: 1px;
+}
+html, body {
+    margin: 0;
+    min-height:50%;
+    margin-bottom: 0%;
+}
+.list {
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    margin-right: 30px;
+    font-size: 25px;
+}
+.list a {
+    color: white;
+    text-decoration: none;
+}
+li {
+    display: inline-block;
+    text-align: center; 
+    margin: 0px 10px;
+}
+.line {
+    text-decoration: underline;
+    font-size: 50px;
+    text-underline-offset: 8px;
+}
+.h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    font-weight: 700 bold;
+}
+.para {
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    inline-size: 780px;
+    overflow-wrap: break-word;
+}
+.box {
+    background-color: #172d67;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    margin-left: 830px;
+    padding-bottom: 12px;
+    padding-top: 5px;
+    border: 2px solid #172d67;
+    position: relative;
+    left: 0px; bottom: 520px;
+}
+.div2 {
+    margin: 20px;
+    text-decoration: underline;
+    text-underline-offset: 4.5px;
+
+}
+.list2 {
+    margin-bottom: 11px;
+    margin-top: 12px;
+}
+.alter {
+    margin: 25px;
+    position: relative;
+    right: 1px; bottom: 30px ;
+}
+.footer {
+    background-color: #8c15e9;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 15px;
+    padding-bottom: 9px;
+    padding-top: 5px;
+    position: relative;
+    left: 0px; bottom: 475px;
+    margin-bottom: 0%;
+}
+
+
+
+
