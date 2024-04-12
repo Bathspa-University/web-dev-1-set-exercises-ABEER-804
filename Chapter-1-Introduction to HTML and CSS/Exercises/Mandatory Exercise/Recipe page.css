@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-color: wheat;
+}
+.P1{
+    text-align: center;
+    background-color: lightyellow;
+}
+.container{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+h2{
+    color: #333;
+    margin-top: 20px;
+}
+
+ul{
+    color: black;
+}
+ol{
+    color: black;
+}
+li{
+    margin-bottom: 10px;
+}
+.div1{
+    background-color: lightyellow;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 15px;
+}
+.div2{
+    background-color: lightyellow;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px;
+}
