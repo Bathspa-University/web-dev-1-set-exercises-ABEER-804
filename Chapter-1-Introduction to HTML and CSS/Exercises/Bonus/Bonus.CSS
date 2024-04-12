@@ -1,0 +1,40 @@
+body {
+    background-color: wheat;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+
+}
+
+.user {
+    background-color: aquamarine;
+}
+.car {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.color {
+    color:brown;
+}
+.line {
+    text-decoration: underline;
+}
+.space {
+    padding-top: 14px;
+}
+.align {
+    text-align: center;
+}
+.outline {
+    outline-style: dotted;
+    outline-color: blueviolet;
+}
+.transform {
+    text-transform: uppercase;
+}
+.span {
+    color: red;
+}
